@@ -1,0 +1,129 @@
+section.achie {
+  margin-top: 5rem;
+}
+
+.flex-achie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.thanks {
+  justify-content: center;
+}
+
+.thanks > div > i {
+  margin-right: 0.5rem;
+}
+
+.achievements {
+  justify-content: space-evenly;
+}
+
+.achievements > div {
+  width: 25%;
+  background: #2e3267;
+  padding: 3rem;
+  border-radius: 1rem;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.achievements > div:hover {
+  background: #424890;
+}
+
+.achievements > div .icon-achie1 {
+  background: #6c63ff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.achievements > div .icon-achie2 {
+  background: #f75842;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.achievements > div .icon-achie3 {
+  background: #00bf8e;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.achievements > div h3 {
+  font-size: 1.5rem;
+}
+
+section.team {
+  margin-top: 5rem;
+  background: #2e3267;
+  padding-bottom: 5rem;
+}
+
+section.team > div {
+  padding-top: 3rem;
+}
+
+#teachers .teacher {
+  width: 23%;
+  text-align: center;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  background: #424890;
+  border-radius: 1rem;
+  transition: 0.3s;
+  position: relative;
+  border: 1px solid transparent;
+  overflow: hidden;
+}
+
+#teachers .teacher:hover {
+  background: transparent;
+  border-color: #6c63ff;
+}
+
+#teachers .teacher h3 {
+  height: 4.5rem;
+  padding-bottom: 0;
+}
+
+#teachers .teacher .teacher-social {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: -100%;
+  top: 5rem;
+  background: #6c63ff;
+  border-radius: 1rem 0 0 1rem;
+  /* padding: 1rem; */
+  transition: 0.3s;
+}
+
+#teachers .teacher .teacher-social > a {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  display: block;
+  transition: 0.3s;
+}
+
+#teachers .teacher .teacher-social > a:first-child {
+  border-radius: 1rem 0 0 0;
+}
+
+#teachers .teacher .teacher-social > a:last-child {
+  border-radius: 0 0 0 1rem;
+}
+
+#teachers .teacher .teacher-social > a:hover {
+  background: #424890;
+}
+
+#teachers .teacher:hover .teacher-social {
+  right: 0;
+}
+
+#teachers .teacher > div > img {
+  width: 100%;
+  border-radius: 1rem;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "../images/tm1.jpg",
+    "name": "Trịnh Quốc Thu",
+    "subject": "Data Analysis"
+  },
+  {
+    "id": 2,
+    "image": "../images/tm2.jpg",
+    "name": "Tô Trần Hồ Giảng",
+    "subject": "Tin học văn phòng"
+  },
+  {
+    "id": 3,
+    "image": "../images/tm3.jpg",
+    "name": "Trần Nhật Tân",
+    "subject": "Data Science & Machine Learning"
+  },
+  {
+    "id": 4,
+    "image": "../images/tm4.jpg",
+    "name": "Nguyễn Phan Chí Thành",
+    "subject": "Lập trình Web"
+  },
+  {
+    "id": 5,
+    "image": "../images/tm5.jpg",
+    "name": "Phan Nhật Trung",
+    "subject": "Đồ hoạ Đa truyền thông"
+  },
+  {
+    "id": 6,
+    "image": "../images/tm6.jpg",
+    "name": "Trần Thị Ngọc Sây",
+    "subject": "Lập trình web"
+  },
+  {
+    "id": 7,
+    "image": "../images/tm7.jpg",
+    "name": "Phạm Thị Nhung",
+    "subject": "Lập trình Web"
+  },
+  {
+    "id": 5,
+    "image": "../images/tm8.jpg",
+    "name": "Nguyễn Anh Tuấn",
+    "subject": "Lập trình Web"
+  }
+]

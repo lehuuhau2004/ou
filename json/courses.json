@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "../images/course1.jpg",
+    "name": "Thiết kế đồ họa & web"
+  },
+  {
+    "id": 2,
+    "image": "../images/course2.jpg",
+    "name": "Thiết kế đồ hệ thống"
+  },
+  {
+    "id": 3,
+    "image": "../images/course3.jpg",
+    "name": "Lập trình ứng dụng"
+  },
+  {
+    "id": 4,
+    "image": "../images/course4.jpg",
+    "name": "Thiết kế giao diện"
+  },
+  {
+    "id": 5,
+    "image": "../images/course5.jpg",
+    "name": "Thiết kế website chuẩn SEO"
+  },
+  {
+    "id": 6,
+    "image": "../images/course6.jpg",
+    "name": "App mobile design"
+  },
+  {
+    "id": 7,
+    "image": "../images/course7.jpg",
+    "name": "Thiết kế giao diện website với Figma"
+  },
+  {
+    "id": 8,
+    "image": "../images/course8.jpg",
+    "name": "Lập trình cơ bản Java"
+  },
+  {
+    "id": 9,
+    "image": "../images/course9.jpg",
+    "name": "Khóa học javascript"
+  },
+  {
+    "id": 10,
+    "image": "../images/course10.jpg",
+    "name": "Lập trình Python"
+  },
+  {
+    "id": 11,
+    "image": "../images/course11.jpg",
+    "name": "Lập trình viên .NET"
+  },
+  {
+    "id": 12,
+    "image": "../images/course12.jpg",
+    "name": "Lập trình ứng dụng IOT"
+  },
+  {
+    "id": 13,
+    "image": "../images/course13.jpg",
+    "name": "Lập trình C cơ bản"
+  },
+  {
+    "id": 14,
+    "image": "../images/course14.jpg",
+    "name": "Cấu trúc dữ liệu"
+  },
+  {
+    "id": 15,
+    "image": "../images/course15.jpg",
+    "name": "Lập trình Android"
+  },
+  {
+    "id": 16,
+    "image": "../images/course16.jpg",
+    "name": "Kiểm thử phần mềm cơ bản"
+  },
+  {
+    "id": 17,
+    "image": "../images/course17.jpg",
+    "name": "Kiểm thử phần mềm tự động"
+  },
+  {
+    "id": 18,
+    "image": "../images/course18.jpg",
+    "name": "Tối ưu hóa công cụ tìm kiếm chuẩn SEO"
+  }
+]

@@ -1,0 +1,119 @@
+html {
+  font-size: 15px;
+}
+
+.ads {
+  display: none !important;
+}
+
+.nav {
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.container {
+  width: 90%;
+}
+
+.logo {
+  width: 14rem;
+}
+
+/* -------------Introduce------------ */
+
+section.introduce {
+  height: 100vh;
+}
+
+.right .list li {
+  overflow: auto;
+}
+
+/* -----------Comment------------ */
+section.comment {
+  height: 100vh;
+}
+.btn-left {
+  left: 1.5rem;
+}
+
+.btn-right {
+  right: 3rem;
+}
+
+.container-comment .info-comment p {
+  font-size: 1rem;
+}
+
+/* ----------------Footer------------ */
+.col2 > iframe {
+  width: 25rem;
+  height: 20rem;
+}
+
+/* ============================== */
+/* =========Teacher============== */
+/* ============================== */
+.thanks {
+  flex-wrap: nowrap;
+}
+
+.thanks > div > i {
+  margin-right: 0;
+}
+
+.achievements > div {
+  width: 30%;
+}
+
+#teachers .teacher {
+  width: 30%;
+}
+
+/* =============================== */
+/* ============Contact============ */
+/* =============================== */
+.contact-left {
+  width: 50%;
+}
+
+.contact-right {
+  width: 50%;
+}
+
+textarea {
+  height: 7rem;
+}
+
+/* =================================== */
+/* ==============Register============= */
+/* =================================== */
+.form-field-register {
+  width: 100%;
+}
+.hero {
+  width: 90%;
+  padding: 3rem 1rem;
+}
+
+.user {
+  width: 11rem;
+}
+
+.img > img {
+  height: 21.5rem;
+}
+
+.lightbox > img {
+  margin-top: 1.5rem;
+}
+
+.lightbox > div {
+  opacity: 1;
+  z-index: 9;
+}
+
+/* ============Map============ */
+.col2 > iframe {
+  width: 100%;
+}

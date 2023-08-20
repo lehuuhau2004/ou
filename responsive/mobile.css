@@ -1,0 +1,260 @@
+html {
+  font-size: 15px;
+}
+
+/* header {
+  height: 40vh;
+} */
+
+/* ===============Silder================== */
+.slider {
+  height: 30vh;
+}
+
+.slider-content > img {
+  height: 30vh;
+}
+
+.show-button {
+  left: 40%;
+  font-size: 0.5rem;
+}
+/* ======================================= */
+
+.ads {
+  display: none !important;
+}
+
+.nav {
+  justify-content: space-between;
+}
+
+.bars {
+  display: block;
+  /* margin-top: -0.8rem; */
+  cursor: pointer;
+}
+
+.container {
+  width: 90%;
+}
+
+.logo {
+  width: 18rem;
+}
+
+nav .list {
+  flex-direction: column;
+  position: fixed;
+  top: 4.3rem;
+  display: none;
+  left: 0;
+  right: 0;
+}
+
+nav .list li {
+  margin-left: 0;
+  background: #6c63ff;
+  box-shadow: -4rem 6rem 10rem rgba(0, 0, 0, 0.4);
+  animation: animateNav 400ms linear forwards;
+  transform-origin: top right;
+  opacity: 0;
+}
+
+nav .list li:nth-child(2) {
+  animation-delay: 200ms;
+}
+nav .list li:nth-child(3) {
+  animation-delay: 400ms;
+}
+nav .list li:nth-child(4) {
+  animation-delay: 600ms;
+}
+
+nav .list li a {
+  display: block;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav .list li a:hover {
+  border-bottom: none;
+  background: #424890;
+}
+
+@keyframes animateNav {
+  from {
+    transform: rotate(-90deg);
+  }
+  to {
+    transform: rotate(0deg);
+    opacity: 1;
+  }
+}
+
+.slogan {
+  margin-top: 14rem;
+}
+
+/* -------------------Introduce------------------ */
+section.introduce {
+  height: 100vh;
+}
+
+section.introduce > .container {
+  flex-direction: column;
+  padding-top: 20rem;
+}
+
+.left {
+  width: 100%;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.right {
+  width: 100%;
+}
+
+.right .list li {
+  width: 45%;
+  overflow: auto;
+}
+
+/* ---------------course--------------- */
+section.courses {
+  margin-top: 20rem;
+}
+.products {
+  flex-direction: column;
+}
+
+.products .product {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* --------------Question---------- */
+.questions {
+  flex-direction: column;
+}
+
+.questions .question {
+  width: 100%;
+}
+
+/* ------------Comment---------------- */
+.info-comment .info-name > h4 {
+  padding-top: 2rem;
+}
+
+.btn-left {
+  left: 5px;
+}
+
+.btn-right {
+  right: 28px;
+}
+
+/* -------------footer------------- */
+.flex-footers {
+  flex-direction: column;
+}
+
+.col1 {
+  width: 100%;
+}
+
+.col2 {
+  width: 100%;
+}
+
+.map {
+  width: 100%;
+  margin-top: 5rem;
+}
+
+/* ====================Teacher=================== */
+section.achie .thanks {
+  flex-wrap: nowrap;
+}
+
+.achievements > div {
+  width: 44%;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+#teachers .teacher {
+  width: 45%;
+}
+
+#teachers .teacher h3 {
+  height: 5rem;
+}
+
+form {
+  right: 1rem;
+}
+
+/* ================Contact============ */
+.form-input {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+}
+.contacts {
+  margin-top: 2rem;
+}
+
+.flex-contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-left {
+  width: 100%;
+}
+
+.contact-right {
+  width: 100%;
+}
+
+.contact-right {
+  margin-top: 3rem;
+}
+
+/* ---------------register---------------- */
+.hero {
+  width: 100%;
+  padding: 1rem 1rem;
+}
+
+.user {
+  width: 11rem;
+}
+
+.row {
+  flex-direction: column;
+}
+
+.img {
+  width: 100%;
+}
+
+.form-register {
+  width: 100%;
+  margin-left: 0;
+  margin-top: 1rem;
+}
+
+.lightbox > img {
+  margin-top: 1.5rem;
+}
+
+.lightbox > div {
+  opacity: 1;
+  z-index: 9;
+}
